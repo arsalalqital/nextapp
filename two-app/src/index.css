@@ -20,6 +20,12 @@
   
 }
 
+/* body{
+  background-image: url(./assets/asset.jpg) no-repeat center center/cover;
+  min-height: 100vh;
+  position: relative;
+  font-family: "josefin sans";
+} */
 
 body::before{
 position: absolute;
